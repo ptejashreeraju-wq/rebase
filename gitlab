@@ -1,2 +1,5 @@
 all about rebase and fetch
+ HEAD
 Hello from git hub version 1
+hello from local version 2
+ 5accac4 (commit on local repo)
